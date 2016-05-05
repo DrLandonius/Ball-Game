@@ -1,0 +1,2340 @@
+Mono path[0] = 'E:/Unity/Ball-Game/BallGame01_Data/Managed'
+Mono path[1] = 'E:/Unity/Ball-Game/BallGame01_Data/Mono'
+Mono config path = 'E:/Unity/Ball-Game/BallGame01_Data/Mono/etc'
+PlayerConnection initialized from E:/Unity/Ball-Game/BallGame01_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55272
+Multi-casting "[IP] 192.168.0.103 [Port] 55272 [Flags] 2 [Guid] 2436004282 [EditorId] 1456099351 [Version] 1048832 [Id] WindowsPlayer(NineNineZulu-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.103:55272]
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity\Ball-Game\BallGame01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity\Ball-Game\BallGame01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\CoherentNoise.dll (this message is harmless)
+Loading E:\Unity\Ball-Game\BallGame01_Data\Managed\CoherentNoise.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity\Ball-Game\BallGame01_Data\Managed\System.dll (this message is harmless)
+desktop: 6000x1080 60Hz; virtual: 6000x1080 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename: C:/buildslave/unity/build/PlatformDependent/Win/RawInput.cpp Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename: C:/buildslave/unity/build/PlatformDependent/Win/RawInput.cpp Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.607718 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 36b8 -> priority: 1 
+  Thread -> id: 3744 -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at PlayerCamera.LateUpdate () [0x00000] in E:\Unity\Ball-Game\Assets\Scripts\PlayerCamera.cs:23 
+ 
+(Filename: E:/Unity/Ball-Game/Assets/Scripts/PlayerCamera.cs Line: 23)
+

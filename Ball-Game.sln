@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball-Game.CSharp", "Ball-Game.CSharp.csproj", "{F56D303E-3131-8E0F-C3C2-B01815F90CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball-Game.CSharp.Editor", "Ball-Game.CSharp.Editor.csproj", "{6BDAC6DA-92A1-E8E2-1FA5-33C8959C0EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56D303E-3131-8E0F-C3C2-B01815F90CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56D303E-3131-8E0F-C3C2-B01815F90CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56D303E-3131-8E0F-C3C2-B01815F90CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56D303E-3131-8E0F-C3C2-B01815F90CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDAC6DA-92A1-E8E2-1FA5-33C8959C0EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDAC6DA-92A1-E8E2-1FA5-33C8959C0EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDAC6DA-92A1-E8E2-1FA5-33C8959C0EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDAC6DA-92A1-E8E2-1FA5-33C8959C0EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
